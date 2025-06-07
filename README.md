@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠️ SEO工具类（Tools）
+## 🛠️ SEO工具（Tools）
 
 - [**Ahrefs**](https://ahrefs.com/)  
   强大的 SEO、内容营销、PPC 等市场情报工具，依托海量数据助力增长。
