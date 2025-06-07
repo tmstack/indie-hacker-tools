@@ -47,7 +47,7 @@
   基于 Next.js 15 和 Cloudflare Workers 的现代化 SaaS 应用模板。
 
 - [**Creem Template**](https://github.com/armitage-labs/creem-template)  
-  一个Next.js 应用程序 Router 模板项目，用于将Creem与现代web应用程序集成。
+  一个Next.js 应用程序 Router 模板项目，用于将 Creem 与现代 web 应用程序集成。
 
 ---
 
