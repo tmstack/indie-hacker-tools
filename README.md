@@ -108,11 +108,11 @@
 
 ## 💳 支付与财务（Payment）
 
-- [**Creem**](https://www.creem.io/)  
-  面向 SaaS 和独立开发者的支付平台，合规、风控与 AI 财务工具一应俱全。
-
 - [**Stripe**](https://stripe.com/)  
   Stripe提供了一套用于在线支付处理、金融服务和商业解决方案的应用程序编程接口（API），以帮助企业在全球范围内实现业务增长。
+
+- [**Creem**](https://www.creem.io/)  
+  面向 SaaS 和独立开发者的支付平台，合规、风控与 AI 财务工具一应俱全。
 
 ---
 
