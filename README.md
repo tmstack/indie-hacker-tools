@@ -164,4 +164,4 @@ English | [简体中文](README-CN.md)
 **This list is continuously updated—Star & Watch to stay tuned!** 🚀  
 
 ---  
-For more curated content, visit: https://indiehackerhub.com/
+For more curated content, visit: https://indiehackerhub.com
